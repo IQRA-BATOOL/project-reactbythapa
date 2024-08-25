@@ -1,0 +1,52 @@
+[
+    {
+      "id": 1,
+      "name": "Stranger Things",
+     "image_url": "/images/Car Masters.jpg",
+
+      "rating": 4.8,
+      "description": "A group of kids in a small town uncover a series of supernatural events and government conspiracies.",
+      "cast": ["Millie Bobby Brown", "Finn Wolfhard", "Winona Ryder"],
+      "genre": "Sci-Fi, Horror",
+      "watch_url": "https://www.netflix.com/title/80057281"
+    },
+    {
+      "id": 2,
+      "name": "The Crown",
+      "image_url": "https://unsplash.com/photos/a-variety-of-toys-are-laid-out-on-a-table-_gfOLnFxCQQ",
+      "rating": 4.7,
+      "description": "A dramatized history of the reign of Queen Elizabeth II and the events that shaped the second half of the 20th century.",
+      "cast": ["Olivia Colman", "Claire Foy", "Tobias Menzies"],
+      "genre": "Historical Drama",
+      "watch_url": "https://www.netflix.com/title/80025678"
+    },
+    {
+      "id": 3,
+      "name": "Money Heist",
+      "image_url": "https://occ-0-2774-2164.1.nflxso.net/art/d3e8e/3ff923e4139b241b43b03d2295110713d65d3e8e.jpg",
+      "rating": 4.6,
+      "description": "A criminal mastermind known as 'The Professor' plans the biggest heist in history: to print billions of euros in the Royal Mint of Spain.",
+      "cast": ["Úrsula Corberó", "Álvaro Morte", "Pedro Alonso"],
+      "genre": "Crime, Thriller",
+      "watch_url": "https://www.netflix.com/title/80192098"
+    },
+    {
+        "id": 4,
+        "name": "Car Masters: Rust to Riches",
+        "image_url": " http://localhost:3000/images/Masters.jpg",
+        "description": "The crew at Gotham Garage takes classic cars from rust to high-end custom builds that bring in serious money.",
+        "cast": ["Constance Nunes", "Shawn Pilot", "Mark Towle"],
+        "genre": "Reality-TV, Cars",
+        "watch_url": "https://www.netflix.com/title/80998896"
+      },
+      {
+        "id": 5,
+        "name": "Lovely Runner",
+        "image_url": "https://example.com/images/lovely_runner.jpg",
+        "rating": 4.2,
+        "description": "A fast-paced romantic drama centered around a marathon runner who overcomes personal struggles to find love and success.",
+        "cast": ["Emily Blunt", "Chris Evans"],
+        "genre": "Romance, Drama",
+        "watch_url": "https://www.netflix.com/title/lovely_runner"
+      }
+  ]
